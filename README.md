@@ -10,12 +10,25 @@ Both projects demonstrate core principles of **automation, cloud deployment, and
 ```bash
 DevOps-Projects-DeepakJaiswal/
 │
-├── Project-1-MultiCloud-Terraform/        # Multi-Cloud Infrastructure Automation (Terraform, AWS & GCP)
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-│   ├── providers.tf
-│   └── README.md
+multi-cloud-deployment-tf/
+│
+├── modules/
+│   ├── aws_instance/
+│   │   ├── main.tf
+│   │   ├── variables.tf
+│   │   └── outputs.tf
+│   │
+│   └── gcp_instance/
+│       ├── main.tf
+│       ├── variables.tf
+│       └── outputs.tf
+│
+├── main.tf                     # Root configuration calling both modules
+├── providers.tf                # AWS & GCP provider setup
+├── variables.tf                # Global input variables
+├── outputs.tf                  # Public IP outputs from both clouds
+├── terraform.tfvars            # Variable values (excluded via .gitignore)
+└── .gitignore                  # Security exclusions (tfstate, credentials)
 │
 ├── Project-2-Jenkins-CICD-Docker-AWS/     # Automated CI/CD Pipeline (Jenkins, Docker & AWS)
 │   ├── Dockerfile
