@@ -55,6 +55,8 @@ Terraform · AWS EC2 · GCP Compute Engine · AWS S3 · VS Code · PowerShell
 📄 Detailed steps, screenshots, and architecture diagram are available inside
 Project-1-MultiCloud-Terraform/README.md
 
+## [Linkedin post for this project ](https://www.linkedin.com/posts/deepakjaiswal09_multi-cloud-deployment-with-terraform-aws-activity-7385623223612162048-8ZHz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXvFygBZqG0kJ96NKPcjrVG3FT3xXfRqXI)
+
 # 🧩 Project 2 – Automated CI/CD Pipeline with Jenkins, Docker & AWS
 
 ## 🔧 Overview
@@ -84,6 +86,8 @@ Jenkins · Docker · AWS EC2 · Docker Hub · AWS SNS · GitHub · Node.js
 
 📄 Detailed explanation, screenshots, and configuration steps in
 Project-2-Jenkins-CICD-Docker-AWS/README.md
+
+## [Linkedin post for this project](https://www.linkedin.com/posts/deepakjaiswal09_cicd-with-jenkins-docker-aws-step-by-activity-7378292445639340032-Uo5Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXvFygBZqG0kJ96NKPcjrVG3FT3xXfRqXI)
 
 ## 📘 Final Report
 
