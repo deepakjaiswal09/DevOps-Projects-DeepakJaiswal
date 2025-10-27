@@ -19,7 +19,7 @@ variable "aws_region" {
 # GCP Variables
 variable "gcp_credentials_file" {
   description = "Path to GCP credentials JSON file"
-  default     = "~/.gcp/terraform-key.json"
+  default     = ""
 }
 
 variable "gcp_project_id" {
@@ -30,3 +30,4 @@ variable "gcp_region" {
   description = "GCP Region"
   default     = "us-central1"
 }
+
