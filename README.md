@@ -73,7 +73,7 @@ Jenkins · Docker · AWS EC2 · Docker Hub · AWS SNS · GitHub · Node.js
 -Deploy: SSH to EC2 and run new container.
 -Notify: Send build result via AWS SNS email.
 
-<img width="1919" height="410" alt="image" src="https://github.com/user-attachments/assets/b1dc17be-5eab-43c0-9e5e-f2d0e39578a1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6b4a9e0-a81a-40d7-9a2f-118283e8ee33" />
 
 ## 🌟 Highlights
 
