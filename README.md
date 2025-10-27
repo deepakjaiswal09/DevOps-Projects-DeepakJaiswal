@@ -44,6 +44,8 @@ Terraform · AWS EC2 · GCP Compute Engine · AWS S3 · VS Code · PowerShell
 -Automated provisioning across AWS and GCP.
 -Verified via public NGINX web server deployments.
 
+<img width="1024" height="1024" alt="architecture diagram" src="https://github.com/user-attachments/assets/c53c302d-542d-4611-aeab-2e5dfc0732af" />
+
 ## 🧠 Learnings
 
 -Multi-provider Terraform integration.
@@ -70,6 +72,8 @@ Jenkins · Docker · AWS EC2 · Docker Hub · AWS SNS · GitHub · Node.js
 -Push: Upload new image to Docker Hub.
 -Deploy: SSH to EC2 and run new container.
 -Notify: Send build result via AWS SNS email.
+
+<img width="1919" height="410" alt="image" src="https://github.com/user-attachments/assets/b1dc17be-5eab-43c0-9e5e-f2d0e39578a1" />
 
 ## 🌟 Highlights
 
